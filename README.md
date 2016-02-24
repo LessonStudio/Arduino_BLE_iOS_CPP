@@ -3,6 +3,10 @@ This simple example shows a cocos2d-x C++ on desktop, iPhone, or iPad program co
 
 In this example I have boiled away everything except for that code required to open up a serial TX RX pipe to a BLE v4.0 module. 
 
+This is paired with my YouTube video:
+
+https://www.youtube.com/watch?v=UolJHmZ0RFk
+
 >BLE is very very different than the typical Bluetooth modules such as the HC-05/HC-06. With those you establish a connection in a "traditional" way through the bluetooth setting on your machine. Then you just talk to that particular port and all will work. 
 >
 >The problem with that technology is that it requires two things. One is a bothersome connection, and the other is that it gobbles energy.

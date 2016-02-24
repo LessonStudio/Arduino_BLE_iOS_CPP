@@ -38,3 +38,29 @@ public:
 };
 
 #endif /* BLE_hpp */
+/*
+                         CMM
+                      $MMMMM$
+                    $MMMMMMM
+                  $MMMMMMM  MMMMM
+                $MMMMMMM  MMMMMMMMM
+              $MMMMMMM  MMMMMMMMMMMMM
+            $MMMMMMM  MMMMMMMMMMMMMMMMM
+          $MMMMMMM  MMMMMMMMMMMMMMMMMMMMM
+        $MMMMMMM  MMMMMMMMMMMM   MMMMMMMMMM
+      $MMMMMMM     ?MMMMMMMMMMM    MMMMMMMMMM
+    $MMMMMMM  MMMM   ?MMMMMMMMMMM    MMMMMMMMMM
+  CMMMMMMM  MMMMMMM$   ?MMMMMMMMMMM    MMMMMMMMMM
+  MMMMMMMM  MMMMMMMMMM    MMMMMMMMMMM    MMMMMMMM
+    MMMMMMMM  MMMMMMMMMM   ?MMMMMMMMMMM    MMMM
+      MMMMMMMM  MMMMMMMMMM   ?MMMMMMMMMMM
+        MMMMMMMM  MMMMMMMMMM   MMMMMMMMMMMM
+          MMMMMMMM  MMMMMMMMMMMMMMMMMMMMM
+            MMMMMMMM  MMMMMMMMMMMMMMMMM
+              MMMMMMMM  MMMMMMMMMMMMM
+                MMMMMMMM  MMMMMMMMM
+                  MMMMMMMM  MMMMM
+                    MMMMMMMM
+                      MMMMMMM
+                        MMM
+*/
